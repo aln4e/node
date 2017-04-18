@@ -1,0 +1,18 @@
+.jumbotron {
+  background-color: rgba(250, 128, 114, 0.6);
+}
+
+p {
+  color: rgba(250, 128, 114, 0.6)
+  font-size: 20px;
+}
+
+.navbar-default {
+    background-color: #ffa07a;
+}
+
+body {
+  background-image:url(https://s-media-cache-ak0.pinimg.com/originals/d8/e4/e9/d8e4e9d895528d14468ff9d77109c732.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
